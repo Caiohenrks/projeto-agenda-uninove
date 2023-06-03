@@ -1,24 +1,18 @@
-# hello_world
+# PROJETO COMPUTAÇÃO MÓVEL COM FLUTTER
 
-A new Flutter project created with https://flutlab.io
+O projeto foi criado com FlutLab https://flutlab.io
 
-## Getting Started
+## PROJETO EM DUPLA
 
-This project is a starting point for a Flutter application.
+Matheus Franco
+RA: 3020200916
 
-A few resources to get you started if this is your first Flutter project:
+Caio Henrique
+RA: 3017201967
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Discover a marketplace of ready-to-use Flutter projects https://flutlab.io/widgetbay
-- Join the discussion and conversation on https://flutlab.io/residents
-
-If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
+Esse projeto é uma agenda de contatos feita em Flutter, que é um jeito de fazer aplicativos para celular. Com essa agenda, você pode adicionar, editar e apagar contatos, e até colocar uma foto para cada um deles.
+A agenda tem duas telas principais: uma lista de contatos e a tela de adicionar/editar contato.
+Na lista de contatos, você vê todos os contatos em ordem. Cada contato tem o nome, o número de telefone e uma foto, se tiver. Se você tocar em um contato, pode editar ou apagar ele. E tem um botão para adicionar um novo contato, que abre a tela de adicionar contato.
+Na tela de adicionar/editar contato, você pode escrever o nome e o número de telefone do contato. Também pode escolher uma foto do seu celular para colocar no contato. Quando você terminar de adicionar ou editar, as informações são salvas e você volta para a lista de contatos.
+O projeto usa várias coisas do Flutter, como widgets para construir a aparência, um jeito de guardar as informações dos contatos para atualizar a lista, e uma biblioteca para escolher fotos da galeria do celular.
+Resumindo, o projeto é uma agenda de contatos legal e fácil de usar, onde você pode controlar todos os seus contatos e até colocar fotos para deixar tudo mais bonito.
